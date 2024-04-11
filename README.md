@@ -1,5 +1,7 @@
 # PMI_ACP Form Fill up Information:
 
+## Exam Preparation Document Link: https://tinyurl.com/y22y4mxy
+
 ## Agile Experience
 
 <pre>
